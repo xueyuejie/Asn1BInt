@@ -1,12 +1,12 @@
 //
 //  PerformanceTest.swift
-//  BigIntTests
+//  Asn1BIntTests
 //
 //  Created by Leif Ibsen on 17/01/2019.
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 class PerformanceTest: XCTestCase {
     

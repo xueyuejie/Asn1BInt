@@ -4,7 +4,7 @@ Signed fractions with numerator and denominator of unbounded size
 
 ## Overview
 
-Fractions are represented as ``BigInt/BFraction`` values consisting of a ``BigInt/BInt`` numerator value and a ``BigInt/BInt`` denominator value. The representation is normalized:
+Fractions are represented as ``Asn1BInt/BFraction`` values consisting of a ``Asn1BInt/BInt`` numerator value and a ``Asn1BInt/BInt`` denominator value. The representation is normalized:
 
 * The numerator and denominator have no common factors except 1
 * The denominator is always positive

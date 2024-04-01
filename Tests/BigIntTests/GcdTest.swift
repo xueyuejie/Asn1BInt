@@ -1,12 +1,12 @@
 //
 //  gcdTest.swift
-//  BigIntTests
+//  Asn1BIntTests
 //
 //  Created by Leif Ibsen on 15/01/2019.
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 class GcdTest: XCTestCase {
 

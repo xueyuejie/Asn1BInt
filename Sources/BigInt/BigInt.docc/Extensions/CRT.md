@@ -1,4 +1,4 @@
-# ``BigInt/CRT``
+# ``Asn1BInt/CRT``
 
 The CRT structure
 

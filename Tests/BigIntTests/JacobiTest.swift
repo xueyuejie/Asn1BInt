@@ -1,12 +1,12 @@
 //
 //  JacobiTest.swift
-//  BigIntTests
+//  Asn1BIntTests
 //
 //  Created by Leif Ibsen on 24/01/2021.
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 class JacobiTest: XCTestCase {
 

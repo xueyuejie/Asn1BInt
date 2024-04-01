@@ -1,10 +1,10 @@
 # Performance
 
-Execution times for certain BigInt operations
+Execution times for certain Asn1BInt operations
 
 ## 
 
-To assess the performance of BigInt, the execution times for a number of common operations were measured on an iMac 2021, Apple M1 chip.
+To assess the performance of Asn1BInt, the execution times for a number of common operations were measured on an iMac 2021, Apple M1 chip.
 The results are shown in the table below. It shows the operation being measured and the time it took (in microseconds or milliseconds).
 
 > Note:

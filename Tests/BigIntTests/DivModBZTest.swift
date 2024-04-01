@@ -1,12 +1,12 @@
 //
 //  DivModBZTest.swift
-//  BigIntTests
+//  Asn1BIntTests
 //
 //  Created by Leif Ibsen on 05/12/2021.
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 // Test of the Burnikel-Ziegler division algorithm
 // Tests are performed by verifying that the result of using Burnikel-Ziegler

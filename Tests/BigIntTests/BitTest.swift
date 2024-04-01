@@ -1,12 +1,12 @@
 //
 //  BitTest.swift
-//  BigIntTests
+//  Asn1BIntTests
 //
 //  Created by Leif Ibsen on 31/12/2018.
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 class BitTest: XCTestCase {
 

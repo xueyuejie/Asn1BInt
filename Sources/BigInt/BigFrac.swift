@@ -1,6 +1,6 @@
 //
 //  BigFrac.swift
-//  BigInt
+//  Asn1BInt
 //
 //  Created by Leif Ibsen on 26/06/2022.
 //

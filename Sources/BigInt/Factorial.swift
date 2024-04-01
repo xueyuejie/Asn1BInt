@@ -1,6 +1,6 @@
 //
 //  Factorial.swift
-//  BigIntTest
+//  Asn1BIntTest
 //
 //  Created by Leif Ibsen on 19/05/2022.
 //

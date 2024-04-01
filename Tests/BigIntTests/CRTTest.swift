@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 final class CRTTest: XCTestCase {
 

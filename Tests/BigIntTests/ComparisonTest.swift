@@ -1,12 +1,12 @@
 //
 //  ComparisonTest.swift
-//  BigIntTests
+//  Asn1BIntTests
 //
 //  Created by Leif Ibsen on 25/08/2022.
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 class ComparisonTest: XCTestCase {
     

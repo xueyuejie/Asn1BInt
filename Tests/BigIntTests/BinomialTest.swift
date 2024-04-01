@@ -1,12 +1,12 @@
 //
 //  BinomialTest.swift
-//  BigIntTests
+//  Asn1BIntTests
 //
 //  Created by Leif Ibsen on 26/05/2022.
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 class BinomialTest: XCTestCase {
 

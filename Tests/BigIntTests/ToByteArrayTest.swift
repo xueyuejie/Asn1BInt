@@ -1,12 +1,12 @@
 //
 //  ToByteArrayTest.swift
-//  BigIntTests
+//  Asn1BIntTests
 //
 //  Created by Leif Ibsen on 05/09/2019.
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 class ToByteArrayTest: XCTestCase {
 

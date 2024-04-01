@@ -1,12 +1,12 @@
 //
 //  PrimeTest.swift
-//  BigIntegerTests
+//  Asn1BIntegerTests
 //
 //  Created by Leif Ibsen on 15/12/2018.
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 class PrimeTest: XCTestCase {
 

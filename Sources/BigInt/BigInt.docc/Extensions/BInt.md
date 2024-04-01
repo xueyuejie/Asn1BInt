@@ -1,4 +1,4 @@
-# ``BigInt/BInt``
+# ``Asn1BInt/BInt``
 
 The BInt structure
 

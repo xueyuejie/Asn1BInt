@@ -1,4 +1,4 @@
-# ``BigInt``
+# ``Asn1BInt``
 
 Signed integers and fractions of unbounded size
 
@@ -10,13 +10,13 @@ Signed integers and fractions of unbounded size
 >
 >    The page you're looking for can't be found.
 >   
-> The *BigInt.doccarchive* file contains the correct documentation.
+> The *Asn1BInt.doccarchive* file contains the correct documentation.
 > It is emphasized that it is only the documentation that's in error.
 > The operators themselves work correctly.
 
 ## Overview
 
-The BigInt package provides arbitrary-precision integer and fraction arithmetic in Swift:
+The Asn1BInt package provides arbitrary-precision integer and fraction arithmetic in Swift:
 
 * **Integer arithmetic and functions**
 
@@ -32,33 +32,33 @@ The BigInt package provides arbitrary-precision integer and fraction arithmetic 
 
 ### Usage
 
-To use BigInt, in your project Package.swift file add a dependency like
+To use Asn1BInt, in your project Package.swift file add a dependency like
 
 ```swift
 dependencies: [
-  package(url: "https://github.com/leif-ibsen/BigInt", from: "1.17.0"),
+  package(url: "https://github.com/leif-ibsen/Asn1BInt", from: "1.17.0"),
 ]
 ```
 
-BigInt itself does not depend on other packages.
+Asn1BInt itself does not depend on other packages.
 
 > Important:
-BigInt requires Swift 5.0. It also requires that the `Int` and `UInt` types be 64 bit types.
+Asn1BInt requires Swift 5.0. It also requires that the `Int` and `UInt` types be 64 bit types.
 
 ## Topics
 
 ### Structures
 
-- ``BigInt/BInt``
-- ``BigInt/BFraction``
-- ``BigInt/CRT``
+- ``Asn1BInt/BInt``
+- ``Asn1BInt/BFraction``
+- ``Asn1BInt/CRT``
 
 ### Type Aliases
 
-- ``BigInt/Byte``
-- ``BigInt/Bytes``
-- ``BigInt/Limb``
-- ``BigInt/Limbs``
+- ``Asn1BInt/Byte``
+- ``Asn1BInt/Bytes``
+- ``Asn1BInt/Limb``
+- ``Asn1BInt/Limbs``
 
 ### Articles
 

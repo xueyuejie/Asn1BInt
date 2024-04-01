@@ -1,12 +1,12 @@
 //
 //  FibonacciTest.swift
-//  BigIntTests
+//  Asn1BIntTests
 //
 //  Created by Leif Ibsen on 18/05/2022.
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 class FibonacciTest: XCTestCase {
 

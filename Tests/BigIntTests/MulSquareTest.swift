@@ -1,12 +1,12 @@
 //
 //  MulSquareTest.swift
-//  BigIntegerTests
+//  Asn1BIntegerTests
 //
 //  Created by Leif Ibsen on 19/12/2018.
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 class MulSquareTest: XCTestCase {
 

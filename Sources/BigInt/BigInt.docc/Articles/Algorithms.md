@@ -1,6 +1,6 @@
 # Algorithms
 
-Some of the algorithms used in BigInt are described below
+Some of the algorithms used in Asn1BInt are described below
 
 ## 
 
@@ -36,7 +36,7 @@ Algorithm 2.3.8 from [CRANDALL].
 Miller-Rabin test.
 
 ### Prime Number Generation
-The algorithm from Java BigInteger translated to Swift.
+The algorithm from Java Asn1BInteger translated to Swift.
 
 ### Factorial
 The `SplitRecursive` algorithm from Peter Luschny: [https://www.luschny.de](https://www.luschny.de)

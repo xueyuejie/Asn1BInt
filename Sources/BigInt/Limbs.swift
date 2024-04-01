@@ -1,6 +1,6 @@
 //
 //  Limbs.swift
-//  BigInt
+//  Asn1BInt
 //
 //  Created by Leif Ibsen on 24/12/2018.
 //  Copyright © 2018 Leif Ibsen. All rights reserved.

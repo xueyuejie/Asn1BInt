@@ -1,12 +1,12 @@
 //
 //  FactorialTest.swift
-//  BigIntTests
+//  Asn1BIntTests
 //
 //  Created by Leif Ibsen on 19/05/2022.
 //
 
 import XCTest
-@testable import BigInt
+@testable import Asn1BInt
 
 class FactorialTest: XCTestCase {
 

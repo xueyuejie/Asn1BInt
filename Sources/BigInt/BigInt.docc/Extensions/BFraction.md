@@ -1,4 +1,4 @@
-# ``BigInt/BFraction``
+# ``Asn1BInt/BFraction``
 
 The BFraction structure
 

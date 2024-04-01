@@ -1,6 +1,6 @@
 //
 //  BurnikelZiegler.swift
-//  BigIntTest
+//  Asn1BIntTest
 //
 //  Created by Leif Ibsen on 05/12/2021.
 //

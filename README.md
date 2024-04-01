@@ -1,6 +1,6 @@
-## BigInt
+## Asn1BInt
 
-The BigInt package provides arbitrary-precision integer arithmetic in Swift.
+The Asn1BInt package provides arbitrary-precision integer arithmetic in Swift.
 Its functionality falls in the following categories:
 
 * **Arithmetic:** addition, subtraction, multiplication, division, exponentiation, remainder and modulus, gcd and lcm
@@ -15,20 +15,20 @@ Jacobi symbol, Kronecker symbol, Factorial function, Binomial function, Fibonacc
 * **Fractions:** Standard arithmetic on fractions whose numerators and denominators are of unbounded size
 
 
-BigInt requires Swift 5.0. It also requires that the `Int` and `UInt` types be 64 bit types.
+Asn1BInt requires Swift 5.0. It also requires that the `Int` and `UInt` types be 64 bit types.
 
 Its documentation is build with the DocC plugin and published on GitHub Pages at this location:
 
-https://leif-ibsen.github.io/BigInt/documentation/bigint
+https://leif-ibsen.github.io/Asn1BInt/documentation/Asn1BInt
 
-The documentation is also available in the *BigInt.doccarchive* file.
+The documentation is also available in the *Asn1BInt.doccarchive* file.
 
 **Please note:** Due to a bug in the DocC plugin, clicking on certain `BInt` and `BFraction` operators
 in GitHub Pages (f.ex. < and | ) will show the message
 
     The page you're looking for can't be found.
     
-The *BigInt.doccarchive* file contains the correct documentation.
+The *Asn1BInt.doccarchive* file contains the correct documentation.
 
 It is emphasized that it is only the documentation that's in error.
 The operators themselves work correctly.
